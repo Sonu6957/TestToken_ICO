@@ -1,0 +1,11 @@
+.exit
+console.log("Amount transferred is :",transferamount);
+umjs/tx.
+    const transferamount= await tokendeployment.tr
+	const ICOdeployment = await ICOcontract.deploy(deployer.address,tokendeployment.address);
+const [deployer] = await ethers.getSigners();
+	const ICOdeployment = await ICOcontract.deploy(deployer.address,tokendeployment.address);
+    const ICOcontract = await ethers.getContractFactory("ICO");
+		const tokendeployment = await tokencontract.deplo
+	const tokencontract = await ethers.getContractFactory("MyToken");
+	const tokencontract = await ethers.getContractFactory

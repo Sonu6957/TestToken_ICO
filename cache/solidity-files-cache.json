@@ -1,0 +1,85 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "F:\\ICO\\contracts\\erc20.sol": {
+      "lastModificationDate": 1652858950718,
+      "contentHash": "28f1a303fc6fd8112f4acbeb49454695",
+      "sourceName": "contracts/erc20.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0",
+        "^0.8.0",
+        "^0.8.0",
+        "^0.8.0",
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Context",
+        "ERC20",
+        "IERC20",
+        "IERC20Metadata",
+        "MyToken"
+      ]
+    },
+    "F:\\ICO\\contracts\\ICO.sol": {
+      "lastModificationDate": 1652956340771,
+      "contentHash": "e03e001953737030137581bd05e8e073",
+      "sourceName": "contracts/ICO.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0",
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "ICO",
+        "IERC20"
+      ]
+    }
+  }
+}
